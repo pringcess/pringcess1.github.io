@@ -1,0 +1,56 @@
+<html>
+	<head>
+		<title> Aziza Aripova
+		</title>
+		<link href="aboutme-style.css" type="text/css" rel="stylesheet" />
+
+	</head>
+
+<body>
+
+<h1> Aziza Aripova</h1>
+<p>
+	I am a senior student at Inha university. I do Computer Science Degree and wish to learn front-end and eventually become a full-stack developer. My interests are <b>drawing, reading books and learning how to play a guitar.</b>
+</p>
+
+<br/>
+
+<h2> The list of current subjects</h2> 
+
+<ol>  
+	<li> Wireless communicaton</li>
+	<li> Internet of things</li>
+	<li> Internet programming </li>
+	<li> Capstone design </li>
+	<li> Multimedia Computing </li>
+	<li> Engineering ethics </li>
+</ol>
+
+<h2>My favorite books</h2>
+<ol>
+	<li> Mitch Albom "Five people you meet in heaven"</li>
+	<li> Daniel Keyes "Algernon flowers" </li>
+	<li> <a href="https://www.goodreads.com/book/show/1430.Eleven_Minutes">Paulo Coelho "11 minutes" </a></li>
+</ol>
+
+<h2> I am happy here</h2>
+<br/>
+<img src="photo1.jpg" width="400" height="200"/>
+
+<br/>
+
+<h2> Now I am sad here </h2>
+<img src="IMG1.jpg" width="400" height="200" />
+
+<br/>
+
+<h2> My neighbours</h2
+    <ol>
+    <li>Shakhzod Omonbayev- Seeyaman</li>
+
+    <li>Timur Makhmudov- Teamoha</li>
+</ol>
+</body>
+
+
+
